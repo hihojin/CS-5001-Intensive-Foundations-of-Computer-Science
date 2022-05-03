@@ -7,7 +7,7 @@ The major functionality in the Maze program was finding the shortest path to an 
 so the first exit found is guaranteed to be the closest exit from the user's starting location.
 
 After finding the closest exit, I also made the program to show the actual shortest path on the maze to the user.
-Maze program allows the user to create his/her own maze to play and bring various types of maze saved in .txt files (provided by instructor)
+Maze program allows the user to create his/her own maze to play with and can read from various types of maze saved in .txt files (provided by instructor)
 
 I handled the second case (reading from txt files) more in depth than expected work from instructors by handling the case where
 user does not just use the provided maze txt files but creates their version of maze text file that is in a different format so
