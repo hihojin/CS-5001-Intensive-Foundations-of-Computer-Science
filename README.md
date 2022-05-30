@@ -1,5 +1,5 @@
 # CS-5001-Intensive-Foundations-of-Computer-Science
-#### DO NOT COPY AND PASTE MY WORK. I received a permission from professor before uploading my work.
+#### DO NOT COPY AND PASTE MY WORK.
 #### 2 major individual assignments I have done in CS 5001
 Maze program and Connect Four game program involve user interaction by providing menu options to the user.
 
