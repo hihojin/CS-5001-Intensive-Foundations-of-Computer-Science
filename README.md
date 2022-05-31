@@ -1,7 +1,6 @@
 # CS-5001-Intensive-Foundations-of-Computer-Science
-#### DO NOT COPY AND PASTE MY WORK.
 #### 2 major individual assignments I have done in CS 5001
-Maze program and Connect Four game program involve user interaction by providing menu options to the user.
+Maze-solver program and Connect Four game program involve user interaction by providing menu options to the user.
 
 
 The major functionality in the Maze program was finding the shortest path to an exit which I utilized BFS
@@ -18,6 +17,6 @@ to add and creates as a maze.
 ConnectFour game was written by following object-oriented programming in python.
 I used data structures such as queue so player's turn can be switched every time the user puts a piece
 in a valid position on game board and a stack so it can track the last piece added to the board and
-when the user chose an option to 'remove the last piece' on board it can does remove the piece.
+when the user chose an option to 'remove the last piece' on board it can remove the piece.
 
 I have also practiced to write uniitest for testing, proper comments, and error handlings.
