@@ -12,7 +12,7 @@ Maze program allows the user to create his/her own maze to play with and can rea
 I handled the second case (reading from txt files) more in depth than expected work from instructors by handling the case where
 user does not just use the provided maze txt files but creates their version of maze text file that is in a different format so
 even if the first line of the user's txt file does not begin by specifying the width and length the program can still know which line
-to add and creates as a maze.
+to add and creates a maze.
 
 ConnectFour game was written by following object-oriented programming in python.
 I used data structures such as queue so player's turn can be switched every time the user puts a piece
