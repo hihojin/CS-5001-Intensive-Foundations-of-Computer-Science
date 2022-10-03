@@ -1,9 +1,7 @@
-# Maze closest exit finder
-# Connect Four
-#### 2 major individual assignments I have done in Python
-Maze-solver program and Connect Four game program involve user interaction by providing menu options to the user.
+## 2 major individual assignments I have done in Python
+#### Maze-solver program and Connect Four game program involve user interaction by providing menu options to the user.
 
-
+## Maze closest exit finder
 The major functionality in the Maze program was finding the shortest path to an exit which I implemented BFS search algorithm
 so the first exit found is guaranteed to be the closest exit from the user's starting location (any valid starting point; if invalid, showed meaningful messages).
 
@@ -15,10 +13,9 @@ user does not just use the provided maze txt files but creates their version of 
 even if the first line of the user's txt file does not begin by specifying the width and length, the program can still know which line
 to add and creates a maze.
 
-ConnectFour game was written by following object-oriented programming in python.
-I used data structures such as queue so player's turn can be switched every time the user puts a piece
-in a valid position on game board and a stack so it can track the last piece added to the board and
-when the user chooses an option to 'undo the last piece' it removes the piece and asks the user to choose his/her next decision from menu option.
+## Connect Four
+Connect Four is a tic-tac-toe like board game which can be played by two or single player.
+I used data structures such as queue so player's turn can be switched in time efficient manner and a stack so it can track the last piece added to the board and when the user chooses an option to 'undo the last piece' it removes the piece and asks the user to choose his/her next decision from menu option.
 ConnectFour program does not end the game until it meets the game over condition or the user selected the "quit" option from menu option.
 Lastly, the program shows the winner or tells the user there is a tie.
 
